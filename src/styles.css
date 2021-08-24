@@ -1,0 +1,76 @@
+a {
+    color: #ffbf80;
+  }
+    
+  h1 {
+    margin: 1%;
+    padding: 1%;
+    font-size: 5vh;
+  }
+  
+  h5,
+  h3,
+  h6,
+  footer {
+    margin: 1%;
+    padding: 1%;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-size: 4vh;
+  }
+  
+  header {
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 5% 2% 5% 2%;
+    border: 3px solid white;
+    border-radius: 2%;
+    box-shadow: 1px 1px 1px gray;
+    background-color: white;
+    color: #008080;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 2%;
+  }
+  
+  #img-caption {
+    font-size: 3.5vh;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  #main {
+    background-color: #e60073;
+    color: white;
+    border-radius: 0.75%;
+    padding: 1%;
+  }
+  
+  p {
+    font-size: 4vh;
+  }
+  
+  #title {
+    font-family: monospace;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    font-family: monospace;
+    text-align: center;
+    margin: 8% 2% 5% 2%;
+    padding: 5%;
+    border: 1px solid white;
+    border-radius: 2%;
+  }
+  
